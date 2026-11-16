@@ -15,3 +15,5 @@ Ana Egea, Martín Vera ---------------------------->   Desarrollo de una aplicac
 Isabel Rey, Fernando Segura ---------------------->   Integrar un narrador virtual en la aplicación.
 
 Miguel Cruz, Daniel Barros ----------------------->   Crear gráficos con diferentes actitudes para el narrador. Se permite asistencia de IA. También crear cartel para el evento. 
+
+David López -------------------------------------->   Soporte de programación a cualquier equipo. Responsable de repositorios (Git/Github) 
